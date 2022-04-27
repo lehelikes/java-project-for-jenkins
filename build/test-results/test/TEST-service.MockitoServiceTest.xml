@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.MockitoServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-31T14:21:40" hostname="DESKTOP-87I7GHM" time="0.112">
+  <properties/>
+  <testcase name="deleteStudent()" classname="service.MockitoServiceTest" time="0.108"/>
+  <testcase name="saveStudent()" classname="service.MockitoServiceTest" time="0.001"/>
+  <testcase name="findAllStudents()" classname="service.MockitoServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
